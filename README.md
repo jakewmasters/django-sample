@@ -1,5 +1,8 @@
 # django-sample
-A basic Django app.
+A basic Django app.  
+
+This project is designed to describe the underlying principles of Django through a small, bare-bones project.  
+I started working with Django in June 2017, and I still have a lot to learn.  
 
 ## Prerequisites
 I developed this application on a Windows machine, so some of the commands will vary depending on your OS.  
